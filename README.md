@@ -76,4 +76,4 @@ Developed an interactive business intelligence dashboard that transformed retail
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](FinalProject_RetailSalesDashboard.png)
+FinalProject_RetailSalesDashboard.png
